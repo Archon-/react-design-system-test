@@ -54,6 +54,8 @@ module.exports = {
         'Multi-layer-shadow-3': 'var(--shadow-multi-layer-shadow-3)', 
         'Multi-layer-shadow-4': 'var(--shadow-multi-layer-shadow-4)', 
         'Shadow-1': 'var(--shadow-shadow-1)', 
+        'Shadow-1-2': 'var(--shadow-shadow-1-2)', 
         'Shadow-2': 'var(--shadow-shadow-2)', 
+        'Shadow-2-2': 'var(--shadow-shadow-2-2)', 
     }
 }
