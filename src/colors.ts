@@ -1,4 +1,3 @@
-const testtoken = "#e81c1c";
 const neutralBlack = "#000000";
 const neutral900 = "#212529";
 const blue900 = "#001733";
@@ -38,7 +37,6 @@ const neutral200 = "#e9ecef";
 const neutral100 = "#f8f9fa";
 
 export const Colors = {
-    testtoken,
     neutralBlack,
     neutral900,
     blue900,
