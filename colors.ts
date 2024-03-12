@@ -1,9 +1,9 @@
 const testtoken = "#e81c1c";
-const red = "#f50a0acc";
+const green = "#0af514cc";
 const stroke = "#f50a0acc";
 
 export const Colors = {
     testtoken,
-    red,
+    green,
     stroke,
 }
