@@ -1,6 +1,4 @@
 const testtoken = "#e81c1c";
-const green = "#0af514cc";
-const stroke = "#f50a0acc";
 const neutralBlack = "#000000";
 const neutral900 = "#212529";
 const blue900 = "#001733";
@@ -41,8 +39,6 @@ const neutral100 = "#f8f9fa";
 
 export const Colors = {
     testtoken,
-    green,
-    stroke,
     neutralBlack,
     neutral900,
     blue900,
