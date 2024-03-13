@@ -4,7 +4,7 @@ import { cva, type VariantProps } from "class-variance-authority"
 
 import { cn } from "../../lib/utils"
 
-import "../../../colors.css"
+import "../../../style/colors.css"
 import "./button.css"
 
 const buttonVariants = cva(
